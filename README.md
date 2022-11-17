@@ -1,7 +1,7 @@
 Get started:
 
 - create your own repo (for example on www.github.com)
-- change the origin to your own repo with `git remote set-url origin https://github.com/shahram5x5/webbee.git`
+- change the origin to your own repo with `git remote set-url origin https://github.com/samanehPejvak/webbee`
 - run `npm i` to install all dependencies
 - change directory to whatever tech suites you best
 - run `npm run migrate`
